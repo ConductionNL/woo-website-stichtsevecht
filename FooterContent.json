@@ -1,0 +1,68 @@
+[
+    {
+      "title": "Gemeente Stichtse Vecht",
+      "items": [
+        {
+          "ariaLabel": "Contact en openingstijden",
+          "value": "Contact en openingstijden",
+          "link": "https://www.stichtsevecht.nl/contact-en-openingstijden"
+        }
+      ]
+    },
+    {
+      "title": "Volg ons",
+      "items": [
+        {
+          "ariaLabel": "X",
+          "value": "X",
+          "link": "https://x.com/StichtseVecht"
+        },
+        {
+          "ariaLabel": "Facebook",
+          "value": "Facebook",
+          "link": "https://www.facebook.com/gemeente.stichtsevecht"
+        },
+        {
+          "ariaLabel": "LinkedIn",
+          "value": "LinkedIn",
+          "link": "https://www.linkedin.com/company/gemeentestichtsevecht"
+        },
+        {
+          "ariaLabel": "Instagram",
+          "value": "Instagram",
+          "link": "https://www.instagram.com/gemeentestichtsevecht/"
+        }
+      ]
+    },
+    {
+      "title": "Meer informatie",
+      "items": [
+        {
+          "ariaLabel": "Sitemap",
+          "value": "Sitemap",
+          "link": "https://www.stichtsevecht.nl/over-deze-website/sitemap"
+        },
+        {
+          "ariaLabel": "Toegankelijkheid",
+          "value": "Toegankelijkheid",
+          "link": "https://www.stichtsevecht.nl/toegankelijkheid"
+        },
+        {
+          "ariaLabel": "Privacy en persoonsbescherming",
+          "value": "Privacy en persoonsbescherming",
+          "link": "https://www.stichtsevecht.nl/privacy-proclaimer-en-cookies"
+        },
+        {
+          "ariaLabel": "Kwetsbaarheid melden",
+          "value": "Kwetsbaarheid melden",
+          "link": "https://www.stichtsevecht.nl/over-deze-website/kwetsbaarheid-ict-of-beveiligingslek-melden"
+        },
+        {
+          "ariaLabel": "Websitearchief",
+          "value": "Websitearchief",
+          "link": "https://svecht.archiefweb.eu/#archive"
+        }
+      ]
+    }
+  ]
+  
